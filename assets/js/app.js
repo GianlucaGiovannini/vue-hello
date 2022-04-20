@@ -33,8 +33,6 @@ const app = new Vue(
                     this.testo = "Cambiamo in modo dinamico il titolo o l'immagine"
                 }
 
-
-
             },
 
         },
