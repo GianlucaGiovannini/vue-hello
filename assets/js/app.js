@@ -11,8 +11,8 @@ const app = new Vue(
         el: "#app",
 
         data: {
-            testo: "Primo esercizio con VueJS",
-            nomeImg: "img a caso",
+            testo: "Cambiamo in modo dinamico il titolo o l'immagine",
+            nomeImg: "image",
             imgUrl: "https://i0.wp.com/recommendmeanime.com/wp-content/uploads/2020/02/breath-of-fire-demon-slayer.png?fit=3840%2C2160&ssl=1",
         },
 
