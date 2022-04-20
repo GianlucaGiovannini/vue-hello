@@ -21,12 +21,15 @@ img {
 
 input {
     font-size: 0.9rem;
-    background-color: black;
+    background-color: transparent;
     color: rgb(144, 245, 122);
     margin-top: 0.2rem;
     padding: 0.7rem;
     width: 60%;
     min-width: 300px;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
 }
 
 .container {
@@ -37,7 +40,7 @@ input {
 }
 
 [class*="element"] {
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     color: white;
     text-align: center;
     margin: 1.5rem 0;
